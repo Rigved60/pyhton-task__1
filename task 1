@@ -1,1 +1,2 @@
-
+name=input("enter your friens name: ")
+print(name,"is my best friend")
