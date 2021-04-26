@@ -1,0 +1,5 @@
+print("my schools name is sanskriti")
+print("my school is in wagholi")
+print("my school is 3 floor high")
+print("my school board is CBS")
+print("my school has 10 grades")
